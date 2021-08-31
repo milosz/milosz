@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+Hello, My name is Milosz Galazka.
+
+I work as a dedicated and enthusiastic DevOps engineer. 
+
+----
+Personal blog: https://sleeplessbeastie.eu
+
+Twitter account: https://twitter.com/milosz_galazka
+
 <!--
 **milosz/milosz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
