@@ -7,7 +7,7 @@ I work as a dedicated and enthusiastic DevOps engineer.
 ----
 Personal blog: https://sleeplessbeastie.eu
 
-Twitter account: https://twitter.com/milosz_galazka
+Mastodon account: https://adventurousbeastie.eu/@milosz
 
 <!--
 **milosz/milosz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
